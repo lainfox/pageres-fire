@@ -13,5 +13,8 @@
     "ava": "^0.22.0",
     "config": "^1.26.2",
     "node-fetch": "^1.7.2"
+  },
+  "dependencies": {
+    "pageres": "^4.5.1"
   }
 }
